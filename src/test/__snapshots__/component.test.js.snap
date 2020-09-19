@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Increment component should render snapshot 1`] = `
+<div
+  className="App"
+>
+  <h1>
+    Testing 
+  </h1>
+  <button
+    className="decrement"
+    onClick={[Function]}
+  >
+    -
+  </button>
+  <label
+    className="count"
+  >
+    0
+  </label>
+  <button
+    className="increment"
+    onClick={[Function]}
+  >
+    +
+  </button>
+</div>
+`;
